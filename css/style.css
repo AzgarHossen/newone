@@ -1,0 +1,195 @@
+*{margin: 0;padding: 0;outline: 0}
+body{margin: 0;font-family: arial;background:url("images/l.png")repeat fixed #fff;}
+.clear
+{
+	overflow: hidden;
+	
+}
+.totalpage 
+{
+    width: 900px;
+    margin: 0 auto;
+	background:   #e4e3e1   ;
+    
+}
+.headersection
+{
+	height: 100px;
+	background: #000;
+}
+.titlename
+{
+	float: left;
+    width: 350px;
+    height: 100px;
+}
+.titlename h2
+{
+	color: #fff;
+    font-size: 35px;
+    padding: 28px 45px;
+}
+.navgation
+{
+	float: right;
+    padding: 45px 40px;
+}
+.navgation a
+{
+	text-decoration: none;
+    font-size: 15px;
+    color: #fff;
+}
+.navgation a:hover{ color: #005DCC; }
+.mainsection
+{
+	margin: 25px;
+}
+.clean
+{
+	border-bottom: 2px dotted;
+    margin-bottom: 15px;
+}
+.clean h1
+{
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+}
+.clean h2
+{
+	font-size: 23px;
+    color: #B6B8BA;
+    margin-bottom: 15px;
+}
+.firstclass
+{
+	border-bottom: 2px dotted;
+    margin-bottom: 15px;
+}
+.firstclass p
+{
+	font-size: 20px;
+    text-align: justify;
+    margin-bottom: 15px;
+}
+.photo
+{
+	
+   	margin-bottom: 20px;
+    padding-bottom: 26px;
+    height: 267px;
+    border-bottom: 2px dotted;
+}
+.webdesign
+{
+	width: 215px;
+    background: #02D3F0;
+    padding: 22px;
+    margin-left: 18px;
+    float: left;
+}
+.webdesign h2
+{
+	padding: 0px 35px 10px 35px;
+    border-bottom: 1px dotted;
+}
+.webdesign p
+{
+	text-align: justify;
+    padding: 15px 0px 23px 0px;
+}
+.webdesign a
+{
+	background: #2691C0;
+    padding: 5px 31px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+.webdesign a:hover{color: #FADD4E;}
+.clientfeatured
+{
+
+    height: 400px;
+    border-bottom: 2px dotted;
+    padding-bottom: 10px;
+}
+.text
+{
+	float: left;
+    width: 400px;
+    padding-right: 26px;
+    margin-right: 26px;
+    border-right: 2px dotted;
+}
+.text h2
+{
+	margin: 20px 0px 14px 0px;
+    font-size: 24px;
+}
+.client
+{
+	
+}
+.client img
+{
+	float: left;
+    margin: 10px 13px 10px 0px;
+    height: 88px;
+    width: 90px;
+}
+.client p
+{
+	    font-size: 17px;
+    text-align: justify;
+    padding-top: 10px;
+}
+.featured{}
+.featured h2
+{
+	    margin: 20px 0px 14px 0px;
+    font-size: 24px;
+}
+.featured img
+{
+	width: 386px;
+    height: 209px;
+    box-shadow: 2px 2px 20px;
+}
+.featured p 
+{
+	    font-size: 18px;
+    text-align: justify;
+    margin: 10px 10px 10px 00px;
+}
+.featured a
+{
+	text-decoration: none;
+    color: #04F1F5;
+}
+.featured a:hover
+{
+	color: #DDB018;
+}
+.footersection
+{
+	    height: 45px;
+}
+.footersection p 
+{
+	text-align: center;
+    font-size: 19px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+
+
+
